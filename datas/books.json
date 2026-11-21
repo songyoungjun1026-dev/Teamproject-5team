@@ -1,0 +1,42 @@
+[
+    {
+        "book_id": "b001",
+        "title": "클로드 코드 제대로 시작하기",
+        "writer": "주홍철 외",
+        "publisher": "길벗",
+        "total_quantity": 3,
+        "available_quantity": 2
+    },
+    {
+        "book_id": "b002",
+        "title": "챗GPT∙제미나이∙클로드까지 모두를 위한 AI",
+        "writer": "지현이(디지털거북이)",
+        "publisher": "시프트",
+        "total_quantity": 3,
+        "available_quantity": 3
+    },
+    {
+        "book_id": "b003",
+        "title": "야생 학습",
+        "writer": "김창준",
+        "publisher": "인사이트",
+        "total_quantity": 3,
+        "available_quantity": 2
+    },
+    {
+        "book_id": "b004",
+        "title": "2027 한 권으로 끝내는 시나공 컴활 2급 필기 + 실기",
+        "writer": "길벗알앤디",
+        "publisher": "길벗",
+        "total_quantity": 3,
+        "available_quantity": 3
+    },
+    {
+        "book_id": "b005",
+        "title": "AI 시대 수학 펀더멘털",
+        "writer": "민재식",
+        "publisher": "인사이트",
+        "total_quantity": 3,
+        "available_quantity": 3
+    }
+]

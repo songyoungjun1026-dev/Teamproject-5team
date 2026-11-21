@@ -1,0 +1,29 @@
+[
+    {
+        "lend_id": "l001",
+        "book_id": "b001",
+        "user_id": "user01",
+        "lend_date": "2026-10-10",
+        "due_date": "2026-10-17",
+        "return_date": "2026-10-14",
+        "state": "반납완료"
+    },
+    {
+        "lend_id": "l002",
+        "book_id": "b001",
+        "user_id": "user02",
+        "lend_date": "2026-10-15",
+        "due_date": "2026-10-22",
+        "return_date": null,
+        "state": "대출중"
+    },
+    {
+        "lend_id": "l003",
+        "book_id": "b003",
+        "user_id": "user01",
+        "lend_date": "2026-10-20",
+        "due_date": "2026-10-27",
+        "return_date": null,
+        "state": "대출중"
+    }
+]

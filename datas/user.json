@@ -1,0 +1,12 @@
+[
+    {
+        "user_id": "user01",
+        "user_pw": "1234",
+        "name": "홍길동"
+    },
+    {
+        "user_id": "user02",
+        "user_pw": "0000",
+        "name": "김영희"
+    }
+]
